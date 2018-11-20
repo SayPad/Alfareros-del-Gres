@@ -1,0 +1,99 @@
+html {
+    background: url(fondo1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#titulo{
+
+text-align: left;
+margin-left:5%;
+font-size: 80px;
+font-family: sans-serif ;
+font-weight: bold;
+color: white;
+text-shadow: 2px 2px 5px #000;
+}
+#concepto{
+text-align:justify;
+margin-top:6%;
+margin-left: 20%;
+margin-right:3%;
+font-family: sans-serif ;
+color: white;
+font-size: 20px;
+}
+#imagen{
+text-align:justify;
+position:absolute;
+top: 25%;
+left: 1%;
+
+}
+#libertades{
+text-align:justify;
+margin-top:6%;
+margin-left: 20%;
+margin-right:3%;
+font-family: sans-serif ;
+color: white;
+font-size: 20px;
+}
+#imagen1{
+text-align:justify;
+position:absolute;
+top: 80%;
+left: 5%;
+}
+#nacimiento{
+text-align:justify;
+margin-top:6%;
+margin-left: 20%;
+margin-right:3%;
+font-family: sans-serif ;
+color: white;
+font-size: 20px;
+}
+#imagen2{
+text-align:justify;
+position:absolute;
+top: 140%;
+left: 2%;
+}
+#ventajas{
+text-align:justify;
+margin-top:6%;
+margin-left: 20%;
+margin-right:3%;
+font-family: sans-serif ;
+color: white;
+font-size: 20px;
+}
+#imagen3{
+text-align:justify;
+position:absolute;
+top: 220%;
+left: 5%;
+}
+.boton{
+margin-top: 50px;
+text-decoration:none;
+font-size: 35px;
+color:#CDD6D6;
+padding-top:15 px;
+padding-bottom:15 px;
+padding-left: 40px;
+padding-right: 40px;
+background-color: transparent;
+border-width: 3px;
+border-style:solid;
+border-color: #CDD6D6;
+border-radius:5px;
+}
+.boton:hover{
+background-color:grey;
+}
+#button{
+text-align: center;
+}

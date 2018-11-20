@@ -1,0 +1,59 @@
+html {
+        background: url(fondo1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+#titulo{
+
+text-align: left;
+margin-left:5%;
+font-size: 80px;
+font-family: sans-serif ;
+font-weight: bold;
+color: white;
+text-shadow: 2px 2px 5px #000;
+}
+#ubuntu{
+	text-shadow: 2px 2px 5px #000;
+	font-family: sans-serif ;
+	font-weight: bold;
+	color: white;
+	margin-left:80px;
+	position: relative;
+	margin-top:;
+}
+#mantenimiento{
+	text-shadow: 2px 2px 5px #000;
+	font-family: sans-serif ;
+	font-weight: bold;
+	color: white;
+	position: relative;
+	margin-left: 600px;
+	margin-top: -362px;
+
+}
+
+.boton{
+margin-top: 50px;
+text-decoration:none;
+font-size: 35px;
+color:#CDD6D6;
+padding-top:15 px;
+padding-bottom:15 px;
+padding-left: 40px;
+padding-right: 40px;
+background-color: transparent;
+border-width: 3px;
+border-style:solid;
+border-color: #CDD6D6;
+border-radius:5px;
+}
+.boton:hover{
+background-color:grey;
+}
+#button{
+margin-left:400px;
+
+}
